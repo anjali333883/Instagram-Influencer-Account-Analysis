@@ -195,4 +195,4 @@ CALL weekly_post_shares_report("W3");
 
 Project Presentation Link: https://youtu.be/hDHycouCZEU
 
-LinkedIn Post Link: https://www.linkedin.com/posts/anjaleechavan_codebasics-codebasicsvirtualinternship-learningjourney-activity-7289510642707771392-aaRA?utm_source=share&utm_medium=member_desktop
+LinkedIn Post Link: https://shorturl.at/OetVy
