@@ -193,6 +193,4 @@ CALL weekly_post_shares_report("W3");
 ```
 
 
-Project Presentation Link: https://youtu.be/hDHycouCZEU
 
-LinkedIn Post Link: https://shorturl.at/OetVy
